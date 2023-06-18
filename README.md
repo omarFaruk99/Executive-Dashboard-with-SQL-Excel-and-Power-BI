@@ -47,5 +47,5 @@ By leveraging these skills, you will be able to import and format the data, perf
 5. PowerBi_Dashboard.png: Screenshot of the Power BI Dashboard.
 6. raw_data: Folder containing the 9 raw tables in CSV format used in the database to generate the targeted data.
 
-### [Interactive DashBoard](https://app.powerbi.com/links/F8vTs7GG3-?ctid=e5c823a2-8309-43af-ae21-b5716e9bfd99&pbi_source=linkShare&bookmarkGuid=a04d0120-0e41-4940-921c-924de4102bfc)
+### [Click here for the Interactive DashBoard](https://app.powerbi.com/view?r=eyJrIjoiMWFiODQyZWQtMDAyNy00ZTAyLWE2MzUtNzAwNDc3MjdmZWNmIiwidCI6ImU1YzgyM2EyLTgzMDktNDNhZi1hZTIxLWI1NzE2ZTliZmQ5OSIsImMiOjEwfQ%3D%3D)
 
