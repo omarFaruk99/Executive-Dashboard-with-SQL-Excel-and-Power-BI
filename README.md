@@ -7,9 +7,9 @@
  
 ---
 ### Description:
-This project focuses on creating an Executive Dashboard using data analytics techniques, SQL, Excel, and Power BI. The project starts with importing and cleaning nine tables in CSV format into PostgreSQL. The tables include brands, categories, customers, orders, order_items, products, staffs, stocks, and stores.
+This project focuses on creating an Executive Dashboard using data analytics techniques, SQL, Excel, and Power BI. The project starts with importing and cleaning nine tables in CSV format into PostgreSQL. The tables include *brands, categories, customers, orders, order_items, products, staffs, stocks, and stores.*
 
-Once the data is cleaned and formatted, a targeted dataset is created using SQL scripts. This dataset includes information such as order ID, customer details, city, state, order date, total units, revenue, product name, category name, brand name, store name, and representative name.
+Once the data is cleaned and formatted, a * targeted dataset * is created using SQL scripts. This dataset includes information such as *order ID, customer details, city, state, order date, total units, revenue, product name, category name, brand name, store name, and representative name.*
 
 ---
 ### Problem Statements:
@@ -46,3 +46,6 @@ By leveraging these skills, you will be able to import and format the data, perf
 4. Excel_Dashboard: Screenshot of the Excel Dashboard.
 5. PowerBi_Dashboard.png: Screenshot of the Power BI Dashboard.
 6. raw_data: Folder containing the 9 raw tables in CSV format used in the database to generate the targeted data.
+
+### [Interactive DashBoard](https://app.powerbi.com/links/F8vTs7GG3-?ctid=e5c823a2-8309-43af-ae21-b5716e9bfd99&pbi_source=linkShare&bookmarkGuid=a04d0120-0e41-4940-921c-924de4102bfc)
+
