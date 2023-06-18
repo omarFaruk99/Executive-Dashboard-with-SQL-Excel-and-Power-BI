@@ -1,9 +1,9 @@
 # Data Analytics Project: Executive Dashboard with SQL, Excel, and Power BI
-### DashBoard Screenshort
-
-| Power BI                       | Excel                           |
-|:-----------------------------:|:-------------------------------:|
-| ![Power BI Dashboard](PowerBi_Dashboard.png) | ![Excel Dashboard](Excel_DashNoard.PNG) |
+### Power BI DashBoard Screenshort
+ ![Power BI Dashboard](PowerBi_Dashboard.png)
+ ---
+ ### Excel DashBoard Screenshort
+ ![Excel Dashboard](Excel_DashNoard.PNG) 
 
 ### Description:
 This project focuses on creating an Executive Dashboard using data analytics techniques, SQL, Excel, and Power BI. The project starts with importing and cleaning nine tables in CSV format into PostgreSQL. The tables include brands, categories, customers, orders, order_items, products, staffs, stocks, and stores.
