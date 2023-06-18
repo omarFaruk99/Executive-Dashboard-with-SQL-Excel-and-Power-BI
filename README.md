@@ -4,12 +4,14 @@
  ---
  ### Excel DashBoard Screenshort
  ![Excel Dashboard](Excel_DashNoard.PNG) 
-
+ 
+---
 ### Description:
 This project focuses on creating an Executive Dashboard using data analytics techniques, SQL, Excel, and Power BI. The project starts with importing and cleaning nine tables in CSV format into PostgreSQL. The tables include brands, categories, customers, orders, order_items, products, staffs, stocks, and stores.
 
 Once the data is cleaned and formatted, a targeted dataset is created using SQL scripts. This dataset includes information such as order ID, customer details, city, state, order date, total units, revenue, product name, category name, brand name, store name, and representative name.
 
+---
 ### Problem Statements:
 - Lack of centralized data visualization: Executives currently lack a centralized and visually appealing dashboard to monitor key business metrics, resulting in a fragmented understanding of the company's performance.
 
@@ -19,9 +21,9 @@ Once the data is cleaned and formatted, a targeted dataset is created using SQL 
 
 - Manual data integration and reporting: Executives rely on manual processes to integrate data from multiple sources and generate reports, leading to delays, errors, and an increased risk of data inconsistencies.
 
+---
 ### Skills Needed:
 #### To successfully create this Executive Dashboard, the following skills are required:
-
 - SQL: Proficiency in SQL is essential for importing and formatting the raw data, as well as performing join operations, utilizing group by and aggregation functions. These skills will enable you to combine and manipulate data from multiple tables, extract the necessary information, and generate the targeted dataset for analysis.
 
 - Data cleaning: Strong data cleaning skills are necessary to preprocess the raw data, handle missing values, standardize formats, and ensure data integrity. This includes techniques such as data validation, data transformation, and dealing with outliers or inconsistencies in the dataset.
@@ -36,6 +38,7 @@ Once the data is cleaned and formatted, a targeted dataset is created using SQL 
 
 By leveraging these skills, you will be able to import and format the data, perform SQL operations such as joins, group by, and aggregations, establish dynamic connections with Excel and Power BI, design interactive visualizations, and create calculated columns and measures to enhance analysis capabilities.
 
+---
 ### Included Files:
 1. BikeStores.pbix: Power BI interactive dashboard.
 2. BikeStores.sql: SQL script used to generate the targeted data for creating the dashboard.
